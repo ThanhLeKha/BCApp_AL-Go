@@ -1,10 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
-  "country": "us",
-  "appSourceCopMandatoryAffixes": [
-    "<affix>"
-  ],
-  "appFolders": [],
-  "testFolders": [],
-  "bcptTestFolders": []
+  "type": "PerTenantExtension",
+  "environmentName": "Vasbook",
+  "country": "US",
+  "bcVersion": "latest"
 }
