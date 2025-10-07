@@ -1,6 +1,7 @@
 {
-  "type": "PerTenantExtension",
-  "environmentName": "Vasbook",
+  "type": "AppSource App",
+  "publisher": "Vasbook",
+  "appSourceCopMandatoryAffixes": [ "VAS" ],
   "country": "US",
   "bcVersion": "latest"
 }
